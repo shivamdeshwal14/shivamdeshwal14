@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm SHIVAM DESHWAL</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="CODING" width="400" src="https://images.unsplash.com/photo-1631624217902-d14c634ab17c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGNvZGVyfGVufDB8fDB8fA%3D%3D&w=1000&q=80">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamdeshwal14&label=Profile%20views&color=0e75b6&style=flat" alt="shivamdeshwal14" /> </p>
 
